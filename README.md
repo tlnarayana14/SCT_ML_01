@@ -22,12 +22,12 @@ Mean Squared Error (MSE)
 R-squared Score (R²)
 
 📂 Dataset Columns Used
-Feature-----Description
-Area-----Total sown area for the crop
-Season-----Season in which crop is grown
-Crop-----Name of the crop
-Crop_Year-----Year of cultivation
-Production-----Target variable (crop yield)
+Feature (Description)
+Area (Total sown area for the crop)
+Season (Season in which crop is grown)
+Crop (Name of the crop)
+Crop_Year (Year of cultivation)
+Production (Target variable , crop yield)
 
 🛠 Tools & Libraries Used
 Python 3.x
